@@ -20,8 +20,8 @@ The goal of this project is to design and implement a communication infrastructu
 
 To contribute to the design of a secure high-speed network for DaFUN, follow these steps:
 
-1. Clone this repository to your local machine: `git clone https://github.com/your-username/dafun-network-design.git`
-2. Navigate to the project directory: `cd dafun-network-design`
+1. Clone this repository to your local machine: `git clone https://github.com/your-username/DePaul-capstone-project.git`
+2. Navigate to the project directory: `cd DePaul-capstone-project`
 3. Explore the provided documentation, including design proposals, diagrams, and configuration guides.
 4. Feel free to open issues or pull requests for improvements, suggestions, or enhancements to the network design.
 
