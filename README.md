@@ -4,7 +4,7 @@ Welcome to the repository for designing a secure and high-speed network infrastr
 
 ## Project Overview
 
-The goal of this project is to design and implement a communication infrastructure that ensures low latency, maximal redundancy, and optimal performance for DaFUN's High-Frequency Trading platform. By utilizing industry best practices and cutting-edge technologies, I aim to create a network that meets the demanding needs of rapid trade execution while maintaining the utmost security and privacy standards.
+The goal of this project is to design and implement a communication infrastructure that ensures low latency, maximal redundancy, and optimal performance for DaFUN's High-Frequency Trading platform. By utilizing industry best practices and cutting-edge technologies, thr project aims to create a network that meets the demanding needs of rapid trade execution while maintaining the utmost security and privacy standards.
 
 ## Key Objectives
 
